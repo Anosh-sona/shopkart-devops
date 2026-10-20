@@ -1,1 +1,9 @@
-# Shopkart Devops Project
+ShopKart DevOps - Test Results
+
+1. Default threshold (80): Passed
+2. Custom threshold (70): Passed
+3. Invalid input (abc): Passed
+4. Negative threshold (-5): Passed
+5. Threshold above 100 (150): Passed
+6. Disk usage logging: Passed
+7. System summary report: Passed
